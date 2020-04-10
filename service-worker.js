@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0679c643dfdabd34737210197a58357a.js"
+  "/precache-manifest.5b38bebfcab5aabaf17d3778963d0aa6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sunana"});
